@@ -1,0 +1,8 @@
+Download and Install pycharm
+
+Open command prompt and run this command
+1. pip install pip
+2. pip install qrcode
+3. pip install image
+
+Finally open pycharm and code here and run 
